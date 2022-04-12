@@ -1,6 +1,6 @@
 # Assignment 1 
 
-# Team Members: 
+## Team Members: 
 Urja Naik - 
 
 Vishwa Shah - 015226523
